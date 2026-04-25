@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚖️ Advogado especializado em Direito Civil e Digital<br>💻 Entusiasta de Hardware & Montagem de PCs <br>🎮 Streamer nas horas vagas (Insônia do Corvo).
+⚖️ Advogado especializado em Direito Civil e Digital<br>💻 Entusiasta de Hardware & Montagem de PCs <br>🎮 Streamer nas horas de insônia (Insônia do Corvo).
 
 ## 🖥️ Workstation & Gaming Setup
 

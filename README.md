@@ -21,7 +21,7 @@
 
 De dia, advogado especializado em Direito Contratual, Empresarial, Imobiliário, Família e Consumidor em São Paulo — com plataforma própria de gestão contratual ([Contractus](https://luchetti.adv.br)).
 
-De noite, construindo ferramentas, assistentes com IA local e portais místicos para sobrinhas.
+De noite, construindo ferramentas, assistentes com IA local e portais místicos para sobrinha.
 
 ---
 

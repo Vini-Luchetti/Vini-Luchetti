@@ -1,14 +1,80 @@
-# 💫 About Me:
-⚖️ Advogado especializado em Direito Civil e Digital<br>💻 Entusiasta de Hardware & Montagem de PCs <br>🎮 Streamer nas horas de insônia (Insônia do Corvo).<br>🚀 Founder do projeto **Contractus** (Legal Tech)<br>🎨 Creative Editor: DaVinci Resolve & GIMP<br>✨ Criador do **Clube do Corvo** (Projeto Helena Pets)
+<div align="center">
 
-## 🖥️ Workstation & Gaming Setup
-`CPU: i9-14900KF` • `GPU: MSI Gaming Trio 5070 Ti` • `RAM: 32GB G.Skill Trident Z5` • `MB: ROG Strix Z790-F` • `Display: ASUS TUF + ROG` • `Gear: Redragon Diti X/Kala/Bullseye/Ebony`
+```
+██╗   ██╗██╗███╗   ██╗██╗ ██████╗██╗██╗   ██╗███████╗
+██║   ██║██║████╗  ██║██║██╔════╝██║██║   ██║██╔════╝
+██║   ██║██║██╔██╗ ██║██║██║     ██║██║   ██║███████╗
+╚██╗ ██╔╝██║██║╚██╗██║██║██║     ██║██║   ██║╚════██║
+ ╚████╔╝ ██║██║ ╚████║██║╚██████╗██║╚██████╔╝███████║
+  ╚═══╝  ╚═╝╚═╝  ╚═══╝╚═╝ ╚═════╝╚═╝ ╚═════╝ ╚══════╝
+```
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-000000?style=for-the-badge&logo=davinciresolve&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Vini-Luchetti&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Vini-Luchetti&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Vini-Luchetti&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**Advogado · Construtor · Corvus Labs**
+
+[![Site](https://img.shields.io/badge/geralzona.com-Corvus_Labs-ffaa33?style=flat-square&labelColor=0a0602)](https://geralzona.com)
+[![Advocacia](https://img.shields.io/badge/luchetti.adv.br-OAB%2FSP_243.779-994400?style=flat-square&labelColor=0a0602)](https://luchetti.adv.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vinicius--luchetti-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinicius-luchetti)
+
+</div>
+
 ---
 
+De dia, advogado especializado em Direito Contratual, Empresarial, Imobiliário, Família e Consumidor em São Paulo — com plataforma própria de gestão contratual ([Contractus](https://luchetti.adv.br)).
+
+De noite, construindo ferramentas, assistentes com IA local e portais místicos para sobrinhas.
+
+---
+
+## 🔧 Projetos em Bancada
+
+| Projeto | Status | Stack | Descrição |
+|---|---|---|---|
+| [**CorvusPDF**](https://github.com/Vini-Luchetti/corvus-pdf) | ✅ operacional | Python · tkinter | Merge e Split de PDFs com interface CRT âmbar |
+| [**Clube do Corvo**](https://github.com/Vini-Luchetti/Project-Club-Pets) | ✅ operacional | HTML · CSS · JS | Portal de adoção de pets estilo Tim Burton, feito para a Helena |
+| **CorvusOne** | 🔧 em construção | Python · Ollama · Whisper | Assistente de voz local com IA (qwen3:8b) |
+| **Crow Speakeasy** | 🎵 ativo | Suno · DaVinci · Kling AI | Canal de música noir/jazz — universo do Vincent Crow |
+| **Corvus Legal Search** | 📐 na bancada | Python · RAG | Pesquisa jurídica inteligente |
+
+---
+
+## 🛠️ Stack
+
+```python
+stack = {
+    "linguagens" : ["Python", "JavaScript", "HTML", "CSS"],
+    "IA local"   : ["Ollama", "faster-whisper", "Piper TTS", "ComfyUI"],
+    "ferramentas": ["VSCode", "DaVinci Resolve", "PyInstaller", "Cloudflare"],
+    "advocacia"  : ["E-SAJ", "E-PROC", "LGPD", "Contractus"],
+}
+```
+
+---
+
+## 💻 Workstation
+
+`CPU` i9-14900KF &nbsp;·&nbsp; `GPU` RTX 5070 Ti 16GB &nbsp;·&nbsp; `RAM` 32GB DDR5 G.Skill Trident Z5
+`MB` ROG Strix Z790-F &nbsp;·&nbsp; `Display` ASUS TUF + ROG &nbsp;·&nbsp; `Gear` Redragon full setup
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Vini-Luchetti&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+![Streak](https://streak-stats.demolab.com/?user=Vini-Luchetti&theme=radical&hide_border=true)
+
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vini-Luchetti&theme=radical&hide_border=true&layout=compact)
+
+</div>
+
+---
+
+<div align="center">
+
+`CONSTRUIR. TESTAR. QUEBRAR. APRENDER. REPETIR.`
+
+**[geralzona.com](https://geralzona.com)** · Corvus Labs · São Paulo
+
+</div>
